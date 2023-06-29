@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- Currently attending Rochester Institute of Technology for a BS in Computer Science. (Gradute May 2024)
+- Currently attending Rochester Institute of Technology for a BS in Computer Science. (Gradute Dec 2023)
 - Been programming since I was 12 years old.
 
 ## Handy Sites and Things
