@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Handy Sites and Things
 - [Personal Website](https://aidanmellin.github.io)
-- [Link to CV](https://aidanmellin.github.io/css/media/Aidan_Mellin_Resume.pdf)
+- [Link to CV](https://onedrive.live.com/?authkey=%21ABE%2DfRtbMxyfIes&cid=312E24844831A1E0&id=312E24844831A1E0%218940&parId=root&o=OneUp)
 
 ## Current Project
 - Implementation of Frank Liang's Stanford Thesis, "Word Hy-Phen-Ation in Com-pu-ters".  
