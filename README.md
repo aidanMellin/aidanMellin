@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 - Implementation of Frank Liang's Stanford Thesis, "Word Hy-Phen-Ation in Com-pu-ters".  
 I want to have it set such that I can apply this to search input text and turn it into  
 poetry or specific prose that uses syllable counts.
+- Refactoring Personal Website from the ground up
+- Education platform powered by ML to tailor various education tools to the individual using it
