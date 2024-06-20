@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 I want to have it set such that I can apply this to search input text and turn it into  
 poetry or specific prose that uses syllable counts.
 - Refactoring Personal Website from the ground up
-- Education platform powered by ML to tailor various education tools to the individual using it
+- Creating a tool to help me find similar songs to recommend to friends from my extra large playlist (I can't for the life of me understand genre definitions)
