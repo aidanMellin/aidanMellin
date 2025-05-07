@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- Graduate of Rochester Insitute of Technology (B.S. Computer Science)
-- Been programming since I was 12 years old.
-
+- B.S. in Computer Science from RIT
+- Love being outside (aka "touching grass")
+- Trying to make an effort to contribute to more Open Source and my own projects
 ## Handy Sites and Things
 - [Personal Website](https://aidanmellin.github.io)
-- [Link to CV](https://onedrive.live.com/?authkey=%21ABE%2DfRtbMxyfIes&cid=312E24844831A1E0&id=312E24844831A1E0%218940&parId=root&o=OneUp)
+- [Link to CV](https://aidanmellin.github.io/Aidan_Mellin_Resume.pdf)
 
 ## Current Projects
 - Implementation of Frank Liang's Stanford Thesis, "Word Hy-Phen-Ation in Com-pu-ters".  
 I want to have it set such that I can apply this to search input text and turn it into  
 poetry or specific prose that uses syllable counts.
-- Refactoring Personal Website from the ground up
-- Creating a tool to help me find similar songs to recommend to friends from my extra large playlist (I can't for the life of me understand genre definitions)
+- [DONE] Refactoring Personal Website from the ground up
+- [ALMOST DONE] Creating a tool to help me find similar songs to recommend to friends from my extra large playlist (I can't for the life of me understand genre definitions)
 - [DONE] NYT Spelling Bee game solver
